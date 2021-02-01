@@ -1,0 +1,5 @@
+1. git init
+2. git status
+3. git add file name
+4. git add --all
+5 git commit 
